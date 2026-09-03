@@ -1,56 +1,56 @@
 [
     {
         "title": "National Winners in Robofest Gujarat 2023-24 winning INR 10 Lakh Prize money",
-        "image": "/images/robofest2022.jpeg",
+        "image": "/images/others/robofest2022.jpeg",
         "description": "Our club members were the Gold Medalists in the Robofest Gujarat 2022-23 event in the self balancing two wheeled robot category. They won a staggering prize money of INR 10 Lakhs for their contribution and solution to the difficult problem. They used extensive control systems knowledge where their two wheeled robot had to not only balance itself at a place but had to move following a line and to add cherry on top of the cake, it also had a container filled with water upto the brim to really test the stability of their bot. They worked with dedication on this problem statement for more than a year and had to go through various screening rounds before finally winning the prize in January 2024.",
         "participants": "Aniket Kumar Roy, Tanishq Chaudhary, Shailesh",
         "brief": "Robofest Gujarat 2023-24 - Winners"
     },
     {
         "title": "E-Yantra Robotics Competition IIT-Bombay 2022-23 Finalists",
-        "image": "/images/eyantra2022.jpeg",
+        "image": "/images/others/eyantra2022.jpeg",
         "description": "These four members were a part of the finale of E-Yantra Robotics Competition 2022-23 which is annually organised by E-Yantra IIT-Bombay for awareness and accessibility of robotics knowledge and in search of solutions to challening problems that can be solved by robotics. Their problem statement was about sentinel drone which can detect anomalies mid-air through a camera and georeference those points via a satellite image which can then output the longitude and latitude points. It involved computer vision for feature matching, control systems particularly PID and LQR controllers, QGIS for georefencing and basic knowledge of operating a drone. Unfortunately their hardware could not perform well during the final run.",
         "participants": "Harshit Sharma, Pranay Pandey, Aniket Kumar Roy, Dhruv Shah",
         "brief": "eYRC IITB 2022-23 Finalists"
     },
     {
         "title": "Second Runner up in NXP AIM 2022 Self Driving car challenge",
-        "image": "/images/nxp2022.jpg",
+        "image": "/images/others/nxp2022.jpg",
         "description": "Our members participated in AI and Mobility Self Driving car simulation and algorithm development challenge NXP AIM 2022 organised by the semi-conductor manufacturing company NXP. The problem statement was really fascinating where in one had been given tracks with static and dynamic obstacles of various kinds in Gazebo environment and the car had to be driven in ROS2 autonomously avoiding the obstacles and controlling its motion on different slopes. The team used YOLOV5 for object classification and detection and won INR 20k as prize money for using uniquely using YOLOV5 and also another prize for their algorithm design and code.",
         "participants": "Aniket Kumar Roy, Pranay Pandey, Dhruv Shah, Harshit Sharma, Tanishq Chaudhary",
         "brief": "2nd Runner up in NXP AIM 2022 competition"
     },
     {
         "title": "Runner up in E-Yantra Robotics Competition IIT-Bombay 2021-22",
-        "image": "/images/eyantra2021.jpeg",
+        "image": "/images/others/eyantra2021.jpeg",
         "description": "Our members achieved the second position in the Agribot theme of eYRC IITB 2021-22 with determination, perseverance plus the smart but also hard work. Their task was to detect the fruits on branches of plants in the orchard simulation environment using computer vision, then use perspective transformation to transform the coordinate from image to spatial coordinates, then perform inverse kinematics to command the robotic arm on ground robot to reach out, pluck and put the fruit in the basket onboard and also segregate them according to their color red, blue or yellow. After all the fruits are plucked from a tree, the robot has to follow the QR codes on the ground and reach out to the loading truck properly. It was a challenging problem statement and the tech stacks used were Coppeliasim, OpenCV and Lua as the programming language.",
         "participants": "Aniket Kumar Roy, Ayushmaan Tiwari, Prachi Singh, Piyush Kumar Satpathy",
         "brief": "Runner up in E-Yantra Robotics Competition IIT-Bombay 2021-22"
     },
     {
         "title": "Winners of Petrichor IIT Palakkad 2022",
-        "image": "/images/mazepetrichor.png",
+        "image": "/images/others/mazepetrichor.png",
         "description": "Heartiest congratulations to the victors of Petrichor'22, the annual techno-cultural fest of IIT Palakkad Maze Runner event, held from 7th January to 10th February 2022. The problem statement was to solve a given maze with a robot in simulation using ROS and Gazebo and using sensors of own choice. The robot was given limited chances and time limit to explore and solve the maze with dynamic obstacles too. The team put in several hours of preparation, execution, and hard work to finish first in the competition. ",
         "participants": "Arjun PS, Aaditya Pramod, Tanishq Chaudhary",
         "brief": "Winners of Petrichor IIT Palakkad 2022"
     },
     {
         "title": "Inter IIT 2K21 - Agrobot Design Innovation Challenge Winners",
-        "image": "/images/agrobot.jpg",
+        "image": "/images/others/agrobot.jpg",
         "description": "Our club members were the Gold Medalists in the Inter IIT 2021 Tech Meet - Agrobot Design Innovation Challenge. The challenge required innovative thinking for reducing the strenuous task of mountain agriculture in India due to the unevenness of land and arduous managing process through the use of bots. The framework of bots used on land for agriculture needs further applied advancement and fostered operations of its components. The Agrobot developed by our victorious team of students is a colossal step towards the future of Mountain Agriculture.",
         "participants": "Aditya Kumar Garg, P Govind Rao, Akshay Kumar Saunta, Inampudi Sai Amith, Satyam Modi",
         "brief": "Inter IIT 2K21 Tech Meet - Agrobot Design Innovation Challenge Winners"
     },
     {
         "title": "Team Vizhelp - 3rd Runner up in the Rakuten India Rakathon 2021",
-        "image": "/images/Rakathon.jpeg",
+        "image": "/images/others/Rakathon.jpeg",
         "description": "\"Team Vizhelp\" secured 3rd runner-up of Rakuten Rakathon 2021. This Rakathan was organized by Rakuten India.  Around 6000 teams submitted their idea as per the themes of Rakuten. IIT (ISM), Dhanbad's students “Team Vizhelp” was the youngest team in the final round with their idea for the development of smart AI-based solutions to help visually disabled people lead normal lives by assisting them in their day-to-day tasks and ultimately reducing their dependence on others.",
         "participants": "Aditya Kumar Garg, Priyansh Sharma, Pratham Pahariya, Ishal",
         "brief": "Team Vizhelp - 3rd Runner up in the Rakuten India Rakathon 2021"
     },
     {
         "title": "3rd Runner up in Honda Hackathon among 2361 teams",
-        "image": "images/Drunk and Drowsiness Detector.png",
+        "image": "images/others/Drunk%20and%20Drowsiness%20Detector.png",
         "description": "When drowsy, people can’t react to stimuli in the environment. And thus, we test the response of driver as a measure of drowsiness. The voice assistant in the car asks for a verbal response at a frequency that’s neither too high as to disturb the driver nor too low to check if the driver is asleep. Alexa is triggered to ask questions depending upon the pattern of driving. The solution can be extended to even drivers with a little or no experience who otherwise create ruckus on street.",
         "participants": "Surya Prakash Mishra, Swaraj Jain, Harshit Gupta, Harsh Kumar Singh",
         "brief": "3rd Runner up in Honda Hackathon among 2361 teams"
