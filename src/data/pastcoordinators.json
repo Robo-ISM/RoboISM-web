@@ -1,0 +1,76 @@
+[
+    {
+        "name": "Prof. Arun Dayal Udai",
+        "position": "Former Faculty In Charge",
+        "image": "/images/members/profs/arunudai-sir.jpg",
+        "youtube": "https://www.youtube.com/user/arunudai",
+        "linkedin": "https://in.linkedin.com/in/arunudai",
+        "email": "arunudai@iitism.ac.in"
+    },
+    {
+        "name": "Shreyansh Shandilya",
+        "position": "2023-24 Coordinator",
+        "image": "/images/members/coordinators/shreyanshshandilya.jpeg",
+        "linkedin": "https://www.linkedin.com/in/shreyanshandilya/",
+        "github": "https://github.com/shreyanshandilya",
+        "email": "connect@shreyanshandilya.me"
+    },
+    {
+        "name": "Ebad Sayed",
+        "position": "2023-24 Coordinator",
+        "image": "/images/members/coordinators/ebadsayed.jpeg",
+        "linkedin": "https://www.linkedin.com/in/ebad-sayed-0861a6227/",
+        "github": "https://github.com/ES7",
+        "email": "sayedebad.777@gmail.com"
+    },
+    {
+        "name": "Aman Pandey",
+        "position": "2022-23 Coordinator",
+        "image": "/images/members/finalyear/Aman%20Pandey.jpeg",
+        "linkedin": "https://www.linkedin.com/in/aman-pandey-a5600a1b9/",
+        "github": "https://github.com/Amanp16",
+        "email": "20je0109@pe.iitism.ac.in",
+        "backgroundPosition": "top"
+    },
+    {
+        "name": "Harshit Sharma",
+        "position": "2022-23 Coordinator",
+        "image": "/images/members/finalyear/Harshit%20Sharma.jpeg",
+        "linkedin": "https://www.linkedin.com/in/harshit-s-025a91134/",
+        "github": "https://github.com/Zhedac",
+        "email": "20je0409@cse.iitism.ac.in",
+        "backgroundPosition": "top"
+    },
+    {
+        "name": "Aditya Kumar Garg",
+        "position": "2021-22 Coordinator",
+        "image": "/images/members/finalyear/Aditya%20Kumar%20Garg.jpg",
+        "linkedin": "http://www.linkedin.com/in/aditya-kumar-garg-9a00b3192",
+        "github": "https://github.com/aditya-kr-garg",
+        "email": "aditya.garg.rewa9800@gmail.com"
+    },
+    {
+        "name": "Surya Prakash Mishra",
+        "position": "2021-22 Coordinator",
+        "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/members/Surya%20Prakash%20Mishra.jpg",
+        "linkedin": "https://www.linkedin.com/in/surya-prakash-mishra-b69359192",
+        "github": "https://github.com/old-school-kid",
+        "email": "mishrasp393@gmail.com",
+        "backgroundPosition": "top"
+    },
+    {
+        "name": "K Jyothi Swaroop",
+        "position": "2020-21 Coordinator",
+        "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/members/Kasina%20Jyothi%20Swaroop.jpg",
+        "linkedin": " https://www.linkedin.com/in/kasina-jyothi-swaroop-b62259168",
+        "github": "  https://github.com/kjyothiswaroop",
+        "email": "kasina.18je0405@ee.iitism.ac.in"
+    },
+    {
+        "name": "Srajan Gupta",
+        "position": "2020-21 Coordinator",
+        "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/members/Srajan%20Gupta.jpg",
+        "linkedin": "https://www.linkedin.com/in/srajan-gupta-4a9650172",
+        "email": "srajan.gupta.712@gmail.com"
+    }
+]

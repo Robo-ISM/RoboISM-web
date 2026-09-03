@@ -1,26 +1,87 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  /* Colors */
+  --color-charcoal: #3f3f3f;
+  --color-muted: #707070;
+  --color-accent: #E38202;
+  --color-card-bg: #f3f4f7;
+
+  /* Font families */
+  --font-heading: var(--font-bebas-neue);
+  --font-body: var(--font-source-sans-3);
+  --font-description: var(--font-roboto);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+/* Base resets matching original site */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-body), sans-serif;
+  font-weight: 300;
+  color: var(--color-charcoal);
+}
+
+/* Hero CTA button animation */
+.button--primary {
+  background: transparent;
+  position: relative;
+  font-family: var(--font-heading), sans-serif;
+  font-size: 1.6rem;
+  padding: 0.6rem 1.2rem;
+  color: var(--color-charcoal);
+  text-decoration: none;
+  display: block;
+  width: fit-content;
+}
+
+.button--primary::after,
+.button--primary::before {
+  content: "";
+  position: absolute;
+  background-color: var(--color-accent);
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  transition: top 0.2s, left 0.2s;
+}
+
+.button--primary::after {
+  top: 0.2rem;
+  left: 0.2rem;
+}
+
+.button--primary::before {
+  top: -0.2rem;
+  left: -0.2rem;
+}
+
+.button--primary:hover::after,
+.button--primary:hover::before {
+  top: 0;
+  left: 0;
+}
+
+/* Secondary button */
+.button--secondary {
+  background-color: var(--color-charcoal);
+  color: white;
+  font-family: var(--font-heading), sans-serif;
+  font-size: 1.4rem;
+  padding: 0.6rem 1.2rem;
+  border: 0;
+  letter-spacing: 0.05rem;
+  display: block;
+  width: fit-content;
+  text-decoration: none;
+}
+
+@media (min-width: 768px) {
+  .button--secondary {
+    font-size: 1.5rem;
+  }
 }

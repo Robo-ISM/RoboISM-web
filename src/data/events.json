@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Concetto 2K19",
+        "description": "Every year the events organized by RoboISM are the center of attraction of Concetto, the technical fest of IIT (ISM) Dhanbad. The number and the nature of events vary every year. In 2K19, the following events were organized:<br><br><b>Flag your Win:</b> Teams have to build an autonomous bot that can follow a black line over a contrasting surface to move between the different zones and perform the required tasks. The line may have discontinuities. <br><br> <b>Death Race:</b> In this event, the player is supposed to complete a race track littered with obstacles, the player who finishes the track first wins the event. The obstacles can be either active or passive: active – they can deliberately DESTROY the bot passive - they can make it harder to continue. The bot can harm another bot but should not harm the arena.<br>         <b>Robowars:</b> Main aim of this event was to build a wired/wireless, manually controlled robot capable of subduing its opponent.",
+        "images": [
+            "https://swaraj-jain.github.io/ROBOISM-Webpage/activityimg/1.jpg",
+            "https://swaraj-jain.github.io/ROBOISM-Webpage/activityimg/2.jpg",
+            "https://swaraj-jain.github.io/ROBOISM-Webpage/activityimg/3.jpg"
+        ]
+    },
+    {
+        "title": "Roboexpo",
+        "description": "RoboExpo is the annual exhibition of projects by the RoboISM club members. RoboExpo includes showcasing of individual as well as group projects of club members. The exhibition is open to the college students and faculty members and every year it experiences a huge gathering of the tech lovers of college. The administration in particular is also highly interested in RoboExpo and expects some industry standard projects from the club members. The event not just helps club members showcase their year long hard work they put in but also gets some critical feedback on improving the project. It also helps the club members to sharpen their presentation skills in front of a huge crowd. It is also a great platform for club members to test their project which they want to pursue in more depth and do proper research and development of that very project. In short RoboExpo is the Tech-Mela of RoboISM.",
+        "images": [
+            "https://swaraj-jain.github.io/ROBOISM-Webpage/activityimg/2.png",
+            "https://swaraj-jain.github.io/ROBOISM-Webpage/activityimg/3.png",
+            "https://swaraj-jain.github.io/ROBOISM-Webpage/activityimg/5.png",
+            "https://swaraj-jain.github.io/ROBOISM-Webpage/activityimg/6.png",
+            "https://swaraj-jain.github.io/ROBOISM-Webpage/activityimg/1.png",
+            "https://swaraj-jain.github.io/ROBOISM-Webpage/activityimg/7.png"
+        ]
+    },
+    {
+        "title": "Internal Workshop",
+        "description": "ROBOISM aims to share knowledge and motivate any person who wants to explore the astonishing world of robotics and Artificial Intelligence.One of the ways to spread this skill is to organize workshops on the topics mastered by our club members.RoboISM leaves no opportunity to organize various technical workshops throughout the academic year. Every year ROBOISM organizes the workshop on the basics of ROBOTICS and Artificial Intelligence alongwith hands on experience on various sensors ,intended mainly for the freshers of IIT(ISM) to plant the seeds of the latest technologies among the brightest aspirants of the country.This workshop is marked by huge response with almost 600 participants and attracts local media coverage as well. When it comes to technical fest , it is our club who train the individuals participating in the robotics events by organizing specific topic workshops as per the events accordingly.Our club is indulged in organizing workshops for other events like the hardware hackathons as well to make the teams aware of the latest trends in technologies that they can use to build their projects.We try to deliver our best in any kind of workshops by focusing on the intended individuals.",
+        "images": [
+            "https://swaraj-jain.github.io/ROBOISM-Webpage/activityimg/10.png",
+            "https://swaraj-jain.github.io/ROBOISM-Webpage/activityimg/12.png",
+            "https://swaraj-jain.github.io/ROBOISM-Webpage/activityimg/13.png"
+        ]
+    },
+    {
+        "title": "External Workshop",
+        "description": "The RoboISM club in addition to conducting workshops within college takes initiative to hold some external workshops. The external workshops are held in nearby schools where the students are introduced to the ABCD of robotics. The school students in particular are very much interested in seeing working models of bots. This is something that fascinates them all. Moreover the best time to nurture students with the ideas and concepts of robotics is when they are school students.<br> The workshop covers some basic topics of Manual as well as Autonomous Robotics. The idea is to make them feel about the real life application of things they are taught in schools. The kind of response from the students is unmatched. The energy and excitement is contagious.<br> Overall, the workshops are very captivating filled with lots of learnings, science, zest of friendly competition with loads and loads of fun.",
+        "images": [
+            "https://swaraj-jain.github.io/ROBOISM-Webpage/activityimg/14.png",
+            "https://swaraj-jain.github.io/ROBOISM-Webpage/activityimg/15.png",
+            "https://swaraj-jain.github.io/ROBOISM-Webpage/activityimg/16.png"
+        ]
+    },
+    {
+        "title": "Session",
+        "description": "ROBOISM conducts many sessions throughout the year on artificial intelligence and robotics. The senior club members conduct the sessions which mainly focuses on teaching the new members and giving them hands-on experience about upcoming technologies in hardware and software development. The club conducts the sessions weekly which are divided into mainly two categories: hardware and software. The level of sessions moves from basic to very advanced. Software sessions cover basic and advanced programming techniques, artificial intelligence, and deep learning concepts. The hardware sessions include Arduino, raspberry pi , microprocessor, PCB design, etc. The sessions are structured well by our senior members so that beginners can easily get the concepts. The senior members interact and take regular session and try their best to teach the new members which builds confidence in each and every member of the club.        ",
+        "images": [
+            "https://swaraj-jain.github.io/ROBOISM-Webpage/activityimg/17.png",
+            "https://swaraj-jain.github.io/ROBOISM-Webpage/activityimg/18.png",
+            "https://swaraj-jain.github.io/ROBOISM-Webpage/activityimg/11.png"
+        ]
+    }
+]

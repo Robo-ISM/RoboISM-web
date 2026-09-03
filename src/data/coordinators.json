@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Prof. Mrinal Sen",
+        "position": "Faculty In Charge",
+        "image": "/images/members/coordinators/mrinal_sen_sir.png",
+        "linkedin": "https://www.linkedin.com/in/mrinal-sen-a51382289/",
+        "email": "mrinalsen@iitism.ac.in"
+    },
+
+    {
+        "name": "Prof. Arun Dayal Udai",
+        "position": "Co Faculty In Charge",
+        "image": "/images/members/profs/arunudai-sir.jpg",
+        "youtube": "https://www.youtube.com/user/arunudai",
+        "linkedin":"https://in.linkedin.com/in/arunudai",
+        "email": "arunudai@iitism.ac.in"
+    },
+    {
+        "name": "Siddharth Gorai",
+        "position": "Coordinator",
+        "image": "/images/members/coordinators/siddharth_gorai.jpg",
+        "linkedin": "https://www.linkedin.com/in/siddharth-gorai-ab01a7254/",
+        "github": "https://github.com/SiddharthGorai",
+        "email": "goraisiddharth@gmail.com",
+        "backgroundPosition": " "
+    },
+    {
+        "name": "Alok Raj",
+        "position": "Coordinator",
+        "image": "/images/members/coordinators/IMG-20250516-WA0015.jpg",
+        "linkedin": "https://www.linkedin.com/in/loki-silvres/",
+        "github": " ",
+        "email": " "
+    }
+]

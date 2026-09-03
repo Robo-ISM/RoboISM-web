@@ -1,0 +1,114 @@
+[
+    {
+        "title": "National Winners in Robofest Gujarat 2023-24 winning INR 10 Lakh Prize money",
+        "image": "/images/robofest2022.jpeg",
+        "description": "Our club members were the Gold Medalists in the Robofest Gujarat 2022-23 event in the self balancing two wheeled robot category. They won a staggering prize money of INR 10 Lakhs for their contribution and solution to the difficult problem. They used extensive control systems knowledge where their two wheeled robot had to not only balance itself at a place but had to move following a line and to add cherry on top of the cake, it also had a container filled with water upto the brim to really test the stability of their bot. They worked with dedication on this problem statement for more than a year and had to go through various screening rounds before finally winning the prize in January 2024.",
+        "participants": "Aniket Kumar Roy, Tanishq Chaudhary, Shailesh",
+        "brief": "Robofest Gujarat 2023-24 - Winners"
+    },
+    {
+        "title": "E-Yantra Robotics Competition IIT-Bombay 2022-23 Finalists",
+        "image": "/images/eyantra2022.jpeg",
+        "description": "These four members were a part of the finale of E-Yantra Robotics Competition 2022-23 which is annually organised by E-Yantra IIT-Bombay for awareness and accessibility of robotics knowledge and in search of solutions to challening problems that can be solved by robotics. Their problem statement was about sentinel drone which can detect anomalies mid-air through a camera and georeference those points via a satellite image which can then output the longitude and latitude points. It involved computer vision for feature matching, control systems particularly PID and LQR controllers, QGIS for georefencing and basic knowledge of operating a drone. Unfortunately their hardware could not perform well during the final run.",
+        "participants": "Harshit Sharma, Pranay Pandey, Aniket Kumar Roy, Dhruv Shah",
+        "brief": "eYRC IITB 2022-23 Finalists"
+    },
+    {
+        "title": "Second Runner up in NXP AIM 2022 Self Driving car challenge",
+        "image": "/images/nxp2022.jpg",
+        "description": "Our members participated in AI and Mobility Self Driving car simulation and algorithm development challenge NXP AIM 2022 organised by the semi-conductor manufacturing company NXP. The problem statement was really fascinating where in one had been given tracks with static and dynamic obstacles of various kinds in Gazebo environment and the car had to be driven in ROS2 autonomously avoiding the obstacles and controlling its motion on different slopes. The team used YOLOV5 for object classification and detection and won INR 20k as prize money for using uniquely using YOLOV5 and also another prize for their algorithm design and code.",
+        "participants": "Aniket Kumar Roy, Pranay Pandey, Dhruv Shah, Harshit Sharma, Tanishq Chaudhary",
+        "brief": "2nd Runner up in NXP AIM 2022 competition"
+    },
+    {
+        "title": "Runner up in E-Yantra Robotics Competition IIT-Bombay 2021-22",
+        "image": "/images/eyantra2021.jpeg",
+        "description": "Our members achieved the second position in the Agribot theme of eYRC IITB 2021-22 with determination, perseverance plus the smart but also hard work. Their task was to detect the fruits on branches of plants in the orchard simulation environment using computer vision, then use perspective transformation to transform the coordinate from image to spatial coordinates, then perform inverse kinematics to command the robotic arm on ground robot to reach out, pluck and put the fruit in the basket onboard and also segregate them according to their color red, blue or yellow. After all the fruits are plucked from a tree, the robot has to follow the QR codes on the ground and reach out to the loading truck properly. It was a challenging problem statement and the tech stacks used were Coppeliasim, OpenCV and Lua as the programming language.",
+        "participants": "Aniket Kumar Roy, Ayushmaan Tiwari, Prachi Singh, Piyush Kumar Satpathy",
+        "brief": "Runner up in E-Yantra Robotics Competition IIT-Bombay 2021-22"
+    },
+    {
+        "title": "Winners of Petrichor IIT Palakkad 2022",
+        "image": "/images/mazepetrichor.png",
+        "description": "Heartiest congratulations to the victors of Petrichor'22, the annual techno-cultural fest of IIT Palakkad Maze Runner event, held from 7th January to 10th February 2022. The problem statement was to solve a given maze with a robot in simulation using ROS and Gazebo and using sensors of own choice. The robot was given limited chances and time limit to explore and solve the maze with dynamic obstacles too. The team put in several hours of preparation, execution, and hard work to finish first in the competition. ",
+        "participants": "Arjun PS, Aaditya Pramod, Tanishq Chaudhary",
+        "brief": "Winners of Petrichor IIT Palakkad 2022"
+    },
+    {
+        "title": "Inter IIT 2K21 - Agrobot Design Innovation Challenge Winners",
+        "image": "/images/agrobot.jpg",
+        "description": "Our club members were the Gold Medalists in the Inter IIT 2021 Tech Meet - Agrobot Design Innovation Challenge. The challenge required innovative thinking for reducing the strenuous task of mountain agriculture in India due to the unevenness of land and arduous managing process through the use of bots. The framework of bots used on land for agriculture needs further applied advancement and fostered operations of its components. The Agrobot developed by our victorious team of students is a colossal step towards the future of Mountain Agriculture.",
+        "participants": "Aditya Kumar Garg, P Govind Rao, Akshay Kumar Saunta, Inampudi Sai Amith, Satyam Modi",
+        "brief": "Inter IIT 2K21 Tech Meet - Agrobot Design Innovation Challenge Winners"
+    },
+    {
+        "title": "Team Vizhelp - 3rd Runner up in the Rakuten India Rakathon 2021",
+        "image": "/images/Rakathon.jpeg",
+        "description": "\"Team Vizhelp\" secured 3rd runner-up of Rakuten Rakathon 2021. This Rakathan was organized by Rakuten India.  Around 6000 teams submitted their idea as per the themes of Rakuten. IIT (ISM), Dhanbad's students “Team Vizhelp” was the youngest team in the final round with their idea for the development of smart AI-based solutions to help visually disabled people lead normal lives by assisting them in their day-to-day tasks and ultimately reducing their dependence on others.",
+        "participants": "Aditya Kumar Garg, Priyansh Sharma, Pratham Pahariya, Ishal",
+        "brief": "Team Vizhelp - 3rd Runner up in the Rakuten India Rakathon 2021"
+    },
+    {
+        "title": "3rd Runner up in Honda Hackathon among 2361 teams",
+        "image": "images/Drunk and Drowsiness Detector.png",
+        "description": "When drowsy, people can’t react to stimuli in the environment. And thus, we test the response of driver as a measure of drowsiness. The voice assistant in the car asks for a verbal response at a frequency that’s neither too high as to disturb the driver nor too low to check if the driver is asleep. Alexa is triggered to ask questions depending upon the pattern of driving. The solution can be extended to even drivers with a little or no experience who otherwise create ruckus on street.",
+        "participants": "Surya Prakash Mishra, Swaraj Jain, Harshit Gupta, Harsh Kumar Singh",
+        "brief": "3rd Runner up in Honda Hackathon among 2361 teams"
+    },
+    {
+        "title": "Tech Monks Startup",
+        "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/techmonk.png",
+        "description": "Tech Monks Engineering Solutions LLP is a startup founded by the alumni of RoboISM. Their product 'Digital Punch Card' saves 20-25 days of time and work per design of saree, which was earlier required to build manual punch cards for sarees. Digital Punch Card is an electronic device which uses the saree's design in bitmap file and is more lasting than the manual one. The device future gives direction to the power loom machine for the weaving.",
+        "participants": "Nitya Nand, Shanmukh Krishna Srikakolapu",
+        "brief": "Tech Monks startup, provides new direction to the power loom machine for weaving"
+    },
+    {
+        "title": "Team Navcharitam - KPMG Ideation Challenge 2020 Winners",
+        "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/KPMG.jpg",
+        "description": "The Global KPMG Ideation Challenge 2020 saw participants from 18 countries, pitching their ideas regarding newer ways of work using Data Analytics and Artificial Intelligence. Our team, Team Navcharitam, from RoboISM emerged victorious as the Global Challenge with their disruptive innovation in the mining industry to enable safer and more sustainable extraction.",
+        "participants": "Srajan Gupta, Parth Hetamsaria, Varnika Kumari, Sanchit Kumar",
+        "brief": "Team Navcharitam - KPMG Ideation Challenge 2020 Winners - \"Disruptive Innovation\" in the Mining Industry"
+    },
+    {
+        "title": "3rd Position in Hack Fest 2K19",
+        "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/p5.png",
+        "description": "Our members developed a Self Balancing Bike. The bike could balance itself on it's wheels without the need for any external interaction. We emerged 3rd in Hackfest 2K19 for this project.",
+        "participants": "Akhil Vaidya, Mayank Gupta, Sarthak Panda, Prerak Rawat, Subham",
+        "brief": "3rd Position in Hackfest 2K18 - Self Balancing Bike"
+    },
+    {
+        "title": "Inter IIT 2K18 (Bionic Leg) Winners",
+        "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/p1.png",
+        "description": "Our club members represented IIT (ISM) Dhanbad in the Inter IIT 2K18 Tech Meet for developing a Bionic Leg. Bionic legs are artificial legs for disabled, that work by using signals from an individual's muscles to seamlessly move like the natural leg. Our team was declared the winners in the competition.",
+        "participants": "Pragdheesh Rs, Eric John, Prince Kunal, Anshul Gupta",
+        "brief": "Inter IIT 2K18 Tech Meet Winners For Bionic Leg"
+    },
+    {
+        "title": "Inter IIT 2K18 (Ashoka's Tech For Change Challange) Winners",
+        "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/kps.png",
+        "description": "Our club members represented IIT (ISM) Dhanbad in the Inter IIT 2K18 Tech Meet for Ashoka's Tech For Change Challange, and emerged victorious in the esteemed competition.",
+        "participants": "Prakhar Kumar, Kapil Verma, Suyog jadhav",
+        "brief": "Winners of Ashoka's Tech For Change Challange - Inter IIT Tech meet 2K18"
+    },
+    {
+        "title": "3rd Position in Hackfest 2K18",
+        "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/p2.png",
+        "description": "Our club members participated in the Hackfest 2K18 competition and developed IRis. It is a cheaper alternative to the current Audience Response Systems, by relying on IR instead of RF, WiFi or Bluetooth. We were given the 3rd prize for the development.",
+        "participants": "Asutosh Rout, Neelesh Kumar Yadav, Nishad Mandlik, Sai Ruthvik, Sai Sumanth Kalluri",
+        "brief": "3rd Position in Hackfest 2K18"
+    },
+    {
+        "title": "3rd Position in Hackfest 2K17",
+        "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/p3.png",
+        "description": "In Hackfest 2K17, we developed an autonomous vehicle, named ParaShoot which could detect human presence around military borders and eliminate any threats if necessary. Defense Research and Development Organization (DRDO) had developed an autonomous multi-terrain vehicle called Daksh, ich is capable of defusing bombs and neutralizing chemical weapons. ParaShoot was developed along the same lines. We emerged 3rd in the competition for ParaShoot.",
+        "participants": "Asutosh Rout, Neelesh Kumar Yadav, Nishad Mandlik",
+        "brief": "3rd Position in Hackfest 2K17"
+    },
+    {
+        "title": "Top 10 in PanIIT Hackathon, Winner of SIH Internal Hackaton",
+        "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/p4.png",
+        "description": "We developed an Epileptic Seizure Detection Device, which could ease the life of caretakers of patients suffering from Epilepsy. The device could be worn by the patient on the wrist, and would monitor the patient for seizures. In case of any detections, it would execute it's emergency procedures. For this, we emerged winners of SIH Internal Hackathon and were in the Top 10 in PanIIT Hackathon.",
+        "participants": "Jyothi Swaroop K, Parth Khanna, Suddunuri Sandeep, Sreyans Bohara",
+        "brief": "Top 10 in PanIIT Hackathon, Winner of SIH Internal Hackaton"
+    }
+]

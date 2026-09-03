@@ -1,0 +1,115 @@
+[
+    {
+        "name": "Swarm of Autonomous Drones (Inter IIT Tech Meet 2022)",
+        "description": "This project was part of the solution developed for the high prep problem statement in <b>Inter IIT Tech Meet 2022</b> given by Drona Aviation company. The aim was to develop python wrappers for <b>Pluto drones</b> than controlling them using ROS and making the drones autonomously traverse a rectangular trajectory through websockets and computer vision for pose estimation and localisation. Once this was done the next part was to develop algorithm was two drones where one drone would be the master and the other one would be the slave following the trajectory of the master drone, the team was able to develop solution for all the subproblems. The video of the same is also available on the YouTube channel of the club.",
+        "image": "/images/interiit2022drone.webp",
+        "video":"https://youtu.be/PdnE_47Gra4?si=RrVujMBClepQSohm"
+    },
+    {
+        "name": "Autonomous Battery Swapper Robotic Arm (Inter IIT Tech Meet 2022)",
+        "description": "This project was part of the solution developed for the mid prep problem statement in <b>Inter IIT Tech Meet 2022</b> given by Jaguar Land Rover company. The aim was to develop a practical <b>CAD design in SOLIDWORKS</b> for the autonomous battery swapping problem for electric vehicles. The arm had to be developed for given dimensions choosing the right working space, the constraints like the cost, practicality, size, etc and many other factors suggested by the company too. Also control systems had to be implemented in <b>MATLAB and Simulink</b> and the plots were explained in the final design report of the robotic arm designed. The animation video for this project is also available on the YouTube channel.",
+        "image": "/images/interiit2022jlr.png",
+        "video":"https://youtu.be/_ML-A-CZvcg?si=FrVEPdOg93SUxSZV"
+    },
+    {
+        "name": "Self Driving Car Simulation (NXP AIM 2022 Competition)",
+        "description": "An autonomous four wheeled ground robot was used to test and develop algorithms for self driving on given tracks in Gazebo environment where the car had to be controlled using ROS2 and computer vision like YOLOV5 was used for object detection, classification and avoidance for the static and dynamic obstacles present on and near the tracks. The track also had varying terrain like uphill, downhill drives, etc where the pose had to be controlled using the right information from odometry topics that were subscribed to. You can watch the video for the results achieved from this project.",
+        "image": "/images/nxpaim2022.png",
+        "github":"https://github.com/Pranay-Pandey/self_driving_car",
+        "video":"https://drive.google.com/file/d/1TNXV4ZL6tN5DBv1btDhyzr5UO4RZSoLL/view"
+    },
+    {
+        "name": "Sentinel Drone",
+        "description": "This project was part of the eYRC IITB 2022-23 competition where the team reached the finals completing the final task 6. We had to develop the drone was remote rescue operations identifying anomalies like yellow colored boxes randomly searching a given search space (arena) and take its images, save them and send to the ground control station which would then do the feature matching with a .tif satellite image and finally georeference the image giving the right longitude and latitude coordinates and plotting them in QGIS.",
+        "image": "/images/eyrcsentineldrone.webp",
+        "github":"https://github.com/dhruvsh-1729/eyrc22_SD_1785",
+        "video":"https://youtu.be/evg6zYMV03U"
+    },
+    {
+        "name": "Remotely Operated Underwater Vehicle Prototype",
+        "description": "This project was undertaken in the club in an attempt to explore underwater robotics which is a really exciting and growing field in robotics. This robot was a basic prototype which had all the electronics sealed inside a plastic box in the middle coated on the sides with resin, a ballast tank to take in water, 12V DC pump to push the water out and had a basic arm powered by three servo motors that could grab objects like small stones underwater. The test was successful and was developed and conducted by Shyam Babu Kamti from our club and now a bigger Autonomuous Underwater Vehicle project has been initiated in the club. Interestingly you can also counterweight sand packets at the other end of the ballast tank to balance the entire robot and make the center of gravity of the robot underwater in the stable zone according to the position of metacenter and center of buoyancy.",
+        "image": "/images/7.jpg"
+    },
+    {
+        "name": "Autonomous Warehouse Robot",
+        "description": "This project was developed for autonomous warehouse management where in pick and place operations could be done autonomusly. This powerful bot weighed about 3 kilograms with a scissor jack weld on top powered by a portable powerful gear motor. The localisation was done through computer vision using overhead cameras in the arena and the Aruco markers were used for pose estimation and navigation setting target waypoints for the robot.",
+        "image": "/images/Bot_4.jpeg",
+        "github":"https://github.com/dhruvsh-1729/NVCTI-Winter-Challenge-Hustlers",
+        "video":"https://drive.google.com/file/d/1L1_ZlJt8k8v22MaW8Eo6A-hhQaJUXBTD/view?usp=sharing"
+    },
+    {
+        "name": "Autonomous Crop Spraying Drone and Battery Swapping Arm Simulation",
+        "description": "An autonomous crop spraying drone simulation was developed with the simulation of an autonomous battery swapping robotic arm in ROS, Gazebo, PX4 Autopilot and Visual Python. The constraints were properly understood and an optimised drone design for the required payload and flight time with apt range was designed and implemented in simulation. The project is still in progress with leads in object detection, classification and avoidance with a camera onboard on the drone.",
+        "image": "/images/autonomousdronecrop.webp",
+        "video":"https://youtu.be/ncElqPy8ckY?si=hBO3YChm5rdYlPT4"
+    },
+    {
+        "name": "Google Cartographer SLAM Indoor Simulation",
+        "description": "An autonomous four wheeled ground robot was used to test Google Cartographer SLAM method in indoor environment in simulation using ROS and Gazebo. The aim was to choose the best 2D LiDAR SLAM method in practice for four wheeled ground robots. GMapping, Karto SLAM, Hector SLAM and Google Cartographer SLAM were tested in the same conditions out of which Google Cartographer SLAM performed the best though it required LIDAR, Odometry, Encoder, etc data for proper results according to literature.",
+        "image": "/images/googlecartographer.webp",
+        "github":"https://github.com/dhruvsh-1729/Google_Cartographer_Turtlebot3",
+        "video":"https://youtu.be/2wkjjHiL8Fs?si=TYLuRhb9DlLj3duH"
+    },
+    {
+        "name": "Flying machine",
+        "description": "The project was aimed to develop an autonomous flying drone (specifically quadcopter). The drone was equipped with DJI’s Naza M V2 flight controller, connected to four ESC. The ESC takes the signal from the flight controller and power from the battery and makes the brushless motor spin. The flight controller uses the response of the barometer and the GPS module to detect hight and distance. The barometer was used to set the height of the drone at a fixed distance from the land. The GPS module provides waypoints to the drone to navigate and traverse from one location to another using GPS coordinates. The drone was able to achieve GPS lock and altitude lock during the flight.        ",
+        "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/projects/2.png"
+    },
+    {
+        "name": "Terrace Farming Robot",
+        "description": "Terrace Farming Robot is an autonomous robot which can assist farmers of hilly areas in terrace farming. It was built essentially as an Autonomous Stair Climbing Robot which could ascend and descend stair of the height of about 40cm high using a Chain Slider Mechanism. It can autonomously also perform ploughing, seeding and harvesting in the steps of terrace farming.",
+        "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/projects/5.png",
+        "github": "https://github.com/kjyothiswaroop/Terrace-Farming-Robot-InterIITTechMeet8.0"
+    },
+    {
+        "name": "MULTIm-8",
+        "description": "MULTIm-8 is an automated system for batch programming of up to 16 AT-Tiny85 ICs. It can be operated from any Linux based computer, via USB. It is driven by a python script and an Arduino Uno board. The Uno is used in the ISP configuration, for programming the AT-Tiny85s. MULTIm-8 is capable of hard-coding each IC in a batch, with a unique ID from a user-specified range. This is particularly useful in production of multiple devices. The Arduino ISP programs the ICs through SPI.",
+        "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/projects/3.png",
+        "github": "https://github.com/matiyau/MULTIm-8"
+    },
+    {
+        "name": "Rubik Cube Solver",
+        "description": "This project initially started off as a python script which out capture the faces of a 2x2x2 Rubik’s Cube and output the moves required to solve it. But soon, it felt incomplete and thus, the electronic and mechanical components were added.<br>The bot houses a camera at the back which captures the faces of the cube and an Arduino board which communicates with the python interface and drives the grippers accordingly. Each gripper is capable of responding to three types of commands: grip, ungrip and rotate. The face detection algorithm is independent of the colour scheme of the cube. The solution is computed by using a graph based search, the shortest solution is computed (11 face-turns of the cube, at most) for any given state of the cube.",
+        "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/projects/1.png",
+        "github": "https://github.com/matiyau/RuDe"
+    },
+    {
+        "name": "Epileptic Seizure Detection and Alert Device",
+        "description": "Epilepsy is a central nervous system (neurological) disorder in which brain activity becomes abnormal, causing seizures or periods of unusual behaviour, sensations, and sometimes loss of awareness, which if left untreated can be fatal.<br>The focus was to make the lives of the caretakers easier. We constructed a wearable wrist band which will record sEMG signals and Accelerometry with the help of sensors such as EMG Muscle Sensor Module and a triaxial accelerometer embedded into the band. Using this information, we shall predict epileptic seizures and notify the caretaker with the help of an Android application along with the exact location of the patient on Google maps.The solution also consists of a continuous low power heart rate monitoring system by Motion Capturing System (IMUs) and an audio module, which shall provide necessary first aid instructions, nearby hospitals and other information, for nearby people to help, in case the caretaker is far away. The patient history and details can be uploaded to a database for medical use and to train the necessary Machine Learning/Deep Learning model to predict whether an activity is a seizure or not for more accurate notifications to the caretaker.",
+        "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/projects/8.png",
+        "github": "https://github.com/kjyothiswaroop/Seizure-glove"
+    },
+    {
+        "name": "Object Detection and Tracking For Aerial View",
+        "description": "Aerial Imaging plays an important role in military surveillance as well as in search and rescue operations. This project aims to develop an autonomous navigation system for aerial vehicles. Sensors like inertial measurement unit and GPS help in achieving flight stability and immunity to drift due to winds. An efficient embedded system needs to be designed in order to incorporate neural networks and image processing techniques.<br>Autonomous navigation demands a real-time spatial (object detection) and temporal (object tracking) analysis of the video feed. The You Only Look Once (YOLO) algorithm based on the Darknet Neural Network has been used for object detection. Channel and Spatial Reliability Tracker (CSRT) and Kalmann Filters have been used for object tracking. Occlusions have been handled by matching features extracted from the object being tracked. The neural network has been trained on the CARPK Dataset which contains aerial images and annotations for parked cars",
+        "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/projects/9.png",
+        "github": "https://github.com/hackabit19/Creators"
+    },
+    {
+        "name": "IRis",
+        "description": "Audience Response Systems are deployed in a wide variety of applications these days. The simplest of such wireless systems use Radio Frequency for communication. The others work on Bluetooth, WiFi or Internet. One major drawbacks with such architecture is considerable hardware cost.<br>\"IRis\" as we call it, has been mindcrafted to tackle this very problem. We conceptualized IRis with the goal of making digital education a reality even in most remote areas of nation. We have modified the technology already in use, to develop a low cost alternative. At the heart of IRis lies an IR communication architecture instead of RF. Needless to say, IRis results in lower hardware cost and power consumption than its RF counterparts.<br>Coming to the technicalities of the project, IRis Slaves are driven by Attiny85 microcontrollers. IRis employs Time Division Multiplexing (TDM) using Master-Slave protocol to avoid interference and ensure hassle free communication. Presently, IRis can offer support to 63 polling devices, each hardcoded with a unique identity number.",
+        "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/projects/10.png",
+        "github": "https://github.com/matiyau/IRis"
+    },
+    {
+        "name": "Ergonomic Crutches",
+        "description": "Most of the crutches available in the market have many drawbacks of its own. The challenge was to design a new set of ergonomic crutches which can solve the problems like a disabled person with regular crutches cannot climb stairs easily. No hands-free movements are possible, making it difficult to grab anything else, prolong use of crutches cause muscle pain and even muscle paralysis, portability issues and many more.<br>The new design of the ergonomic crutches uniquely tackle this problems. The armrest is at an angle to distribute the load evenly along the forearm. The pivot-less cuff allows full range of motion while maintaining one-piece design. The handle has an adjustable length which slides into the armrest providing a single solution for people with different arm length. The thigh cuff offers additional support to the body by reducing body load directly from the forearm and redistributing it through the thigh and transferring back to the ground. This reduces the stress from the forearm, and it prevents hand segs. Since this crutches design provides support at two points, a person can easily climb the stairs with comfort and ease without losing balance. Its design permits the person to fold it to half of its length, which makes it easy to store and portable. Through adjustment, pin person can adjust the height of the clutches for his/her needs",
+        "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/projects/11.png"},
+    {
+        "name": "ParaShoot",
+        "description": "Defense Research and Development Organization (DRDO) has developed an autonomous multi-terrain vehicle called Daksh, which is capable of defusing bombs and neutralizing chemical weapons. On similar lines, we conceived ParaShoot, an autonomous vehicle for detecting human presence and eliminating the threat if necessary. Parashoot employs a dual camera system for precisely detecting the position of an object in 3D Cartesian coordinate space. The frames from both cameras are separately processed using OpenCV and humans are detected. By correlating the features between the two frames and applying some geometric calculations the coordinates of the intruder are computed. With the coordinates, a servo motor mounted on the bot will rotate to point the laser (gun or tranquilizer in practical scenario) at the target. Multiple IR emitters around both cameras make the bot capable of operations at night and in low visibility conditions as well",
+        "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/projects/16.png",
+        "github": "https://github.com/matiyau/ParaShoot"
+    },
+    {
+        "name": "BotISM",
+        "description": "This bot was specifically made for the event IARC of Techkriti '19. The problem statement was to solve a maze with additional functions like reading data from black and white grids called nodes, controlling speed of the bot as per the data or choosing the right path using the data, stopping at red signals and obstacles. We used 2 IR sensors to solve the maze using the left-hand algorithm. Four IRs were used to read data from nodes and 4 more were used to distinguish a node from a path. We used an RGB colour sensor to detect Red LED signals and an Ultrasonic sensor to detect obstacles. We used a hall-effect sensor and magnets to calculate the bot's speed and adjusted it to the desired speed using PWM. Finally, a compass-sensor was used to calculate the angle turned by our bot and turn until we reached the correct angle where our correct path was. We also used an LCD display to display the values we read from a node.",
+        "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/projects/17.png",
+        "github": "https://github.com/JaySharma1048576/BotISM-Techkriti-19-"
+    },
+    {
+        "name": "Drive-Assist Technology",
+        "description": "This project was developed during a 36-hours long hackathon, Hackfest ‘19. The aim of this project was to develop the prototype of a technology to stabilize two-wheeled vehicles to reduce the on-road accidents. The prototype works on Reaction wheel mechanism which uses a high torque motor and a fly wheel to control the posture of the vehicle. A complimentary filter was used to calculate the accurate inclination of the vehicle using the accelerometer and gyroscope readings from the MPU6050. The deviation from vertical axis was fed to the PD controller which controlled the high torque DC motor to generate a restoring torque. This restoring torque maintained the vertical position of the two-wheeler. The chassis was 3D printed using PLA. This project won the 2nd Runners-up in the competition.",
+        "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/projects/32.png"
+    }
+]
