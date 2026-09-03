@@ -9,7 +9,7 @@ export const metadata: Metadata = {
 
 export default function AchievementsPage() {
   return (
-    <div className="px-4 py-8 text-center">
+    <div className="px-4 py-8 text-center" style={{ paddingTop: "25px" }}>
       <h1 className="font-heading text-charcoal text-[2.8rem] mb-[0.2em]">
         Achievements
       </h1>

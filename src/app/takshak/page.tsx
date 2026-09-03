@@ -28,7 +28,7 @@ const contacts = [
 
 export default function TakshakPage() {
   return (
-    <div className="px-4 py-8 text-center">
+    <div className="px-4 py-8 text-center" style={{ paddingTop: "25px" }}>
       <Image
         src="/images/takshak_rounded.png"
         alt="Takshak Rounded Logo"
