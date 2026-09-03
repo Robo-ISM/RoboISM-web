@@ -12,7 +12,7 @@ export default function Home() {
       <div className="block block--hero block--2-column">
         <div className="block__image">
           <Image
-            src="/images/rendered1.png"
+            src="/images/others/rendered1.png"
             alt="Rubik Cube Solver by RoboISM"
             width={600}
             height={600}
