@@ -157,7 +157,8 @@ export default function Home() {
       <section className="block block--2-column flex flex-col items-center justify-center px-4 py-8 md:flex-row md:justify-between md:mb-[1.6rem]">
         <div className="block__image mx-auto mb-10 w-4/5 max-w-[280px] min-w-[240px] md:mx-0 md:mb-0 md:w-[30%] md:max-w-none">
           <Image
-            src="/images/terracebot.jpeg"
+            // src="/images/terracebot.jpeg"
+            src="https://swaraj-jain.github.io/ROBOISM-Webpage/img/projects/5.png"
             alt="Terrace Farming Robot"
             width={400}
             height={400}
