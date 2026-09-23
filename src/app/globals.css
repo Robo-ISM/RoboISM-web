@@ -9,16 +9,16 @@
 
   /* Font families */
   --font-heading: var(--font-bebas-neue);
-  --font-body: var(--font-source-sans-3);
+  --font-body: var(--font-liberation-serif);
   --font-description: var(--font-roboto);
 }
 
 /* Base resets matching original site */
-* {
+/* * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-}
+} */
 
 body {
   font-family: var(--font-body), sans-serif;
@@ -33,7 +33,7 @@ body {
   font-family: var(--font-heading), sans-serif;
   font-size: 1.6rem;
   padding: 0.6rem 1.2rem;
-  color: var(--color-charcoal);
+  /* color: var(--color-charcoal); */
   text-decoration: none;
   display: block;
   width: fit-content;

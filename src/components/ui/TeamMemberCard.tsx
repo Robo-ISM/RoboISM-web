@@ -11,7 +11,7 @@ export default function TeamMemberCard({ member }: TeamMemberCardProps) {
       <div
         className="team-member__image w-full aspect-square bg-cover bg-no-repeat mb-4"
         style={{
-          backgroundImage: `url(${member.image})`,
+          backgroundImage: `url("${member.image}")`,
           backgroundPosition: member.backgroundPosition || 'center'
         }}
       />

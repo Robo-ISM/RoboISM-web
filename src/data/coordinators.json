@@ -6,30 +6,28 @@
         "linkedin": "https://www.linkedin.com/in/mrinal-sen-a51382289/",
         "email": "mrinalsen@iitism.ac.in"
     },
-
     {
         "name": "Prof. Arun Dayal Udai",
         "position": "Co Faculty In Charge",
         "image": "/images/members/profs/arunudai-sir.jpg",
         "youtube": "https://www.youtube.com/user/arunudai",
-        "linkedin":"https://in.linkedin.com/in/arunudai",
+        "linkedin": "https://in.linkedin.com/in/arunudai",
         "email": "arunudai@iitism.ac.in"
     },
     {
-        "name": "Siddharth Gorai",
+        "name": "Shubham Shrivastav",
         "position": "Coordinator",
-        "image": "/images/members/coordinators/siddharth_gorai.jpg",
-        "linkedin": "https://www.linkedin.com/in/siddharth-gorai-ab01a7254/",
-        "github": "https://github.com/SiddharthGorai",
-        "email": "goraisiddharth@gmail.com",
-        "backgroundPosition": " "
+        "image": "/images/members/other_members/prefinalyear/Shubham%20Shrivastava%20RoboISM.jpeg",
+        "linkedin": "https://www.linkedin.com/in/shubham-shrivastav-cozync/",
+        "github": "https://github.com/Shubham-Happy",
+        "email": "shubhamshrivastav28082004@gmail.com"
     },
     {
-        "name": "Alok Raj",
+        "name": "Dipak Das",
         "position": "Coordinator",
-        "image": "/images/members/coordinators/IMG-20250516-WA0015.jpg",
-        "linkedin": "https://www.linkedin.com/in/loki-silvres/",
-        "github": " ",
-        "email": " "
+        "image": "images/members/other_members/prefinalyear/Dipak%20Das.jpg",
+        "linkedin": "https://www.linkedin.com/in/12-dipak/",
+        "github": "https://github.com/dipak12-11",
+        "email": "Dipak14921637k@gmail.com"
     }
 ]
